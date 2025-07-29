@@ -4,6 +4,8 @@
 // @version      1.0
 // @description  Intègre les vidéos TikTok, Instagram, YouTube et X sur les forums JVC.
 // @author       moyaona
+//@downloadURL https://github.com/moyaona/JVC-Integration-Videos-et-Reseaux-Sociaux/raw/refs/heads/main/JVC%20-%20Int%C3%A9gration%20Vid%C3%A9os%20et%20R%C3%A9seaux%20Sociaux.user.js
+//@updateURL https://github.com/moyaona/JVC-Integration-Videos-et-Reseaux-Sociaux/raw/refs/heads/main/JVC%20-%20Int%C3%A9gration%20Vid%C3%A9os%20et%20R%C3%A9seaux%20Sociaux.user.js
 // @match        https://www.jeuxvideo.com/forums/*
 // @connect      tiktok.com
 // @connect      vxinstagram.com
